@@ -18,3 +18,7 @@
 ![shopTab](https://user-images.githubusercontent.com/42043528/90012392-ead6d200-dcc0-11ea-9d9e-2ffa4acc18f2.jpg) 
 
 ![skillTab](https://user-images.githubusercontent.com/42043528/90012398-ee6a5900-dcc0-11ea-8f4b-2ed3b4b6f46d.jpg) 
+
+### Schema:
+![erpng](https://user-images.githubusercontent.com/42043528/90012934-eeb72400-dcc1-11ea-8ce5-f54759351255.png)
+
